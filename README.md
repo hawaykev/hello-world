@@ -1,2 +1,2 @@
 # hello-world
-A hello world repository
+To be or not to be, that is the question
